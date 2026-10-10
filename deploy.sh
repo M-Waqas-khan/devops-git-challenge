@@ -1,3 +1,3 @@
 #!/bin/bash
-ENVIRONMENT="production"
+ENVIRONMENT="development"
 echo "Deploying application to $ENVIRONMENT"
